@@ -1,0 +1,110 @@
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\ApplicationInsights.config
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\csc.exe
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\csc.exe.config
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\csc.rsp
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\csi.exe
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\csi.rsp
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\System.AppContext.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\System.Collections.Immutable.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\System.IO.FileSystem.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\System.Reflection.Metadata.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\vbc.exe
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\vbc.exe.config
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\vbc.rsp
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\VBCSCompiler.exe
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\roslyn\VBCSCompiler.exe.config
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\13-TopSpotsAPI.dll.config
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\13-TopSpotsAPI.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\13-TopSpotsAPI.pdb
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.Web.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.WindowsServer.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.ApplicationInsights.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Newtonsoft.Json.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\System.Net.Http.Formatting.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\System.Web.Http.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\System.Web.Http.WebHost.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.Web.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.AI.WindowsServer.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.ApplicationInsights.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\Newtonsoft.Json.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\System.Net.Http.Formatting.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\System.Web.Http.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\bin\System.Web.Http.WebHost.xml
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.csprojResolveAssemblyReference.cache
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.dll
+Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.pdb
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.pdb
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\ApplicationInsights.config
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\csc.exe
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\csc.exe.config
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\csc.rsp
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\csi.exe
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\csi.rsp
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\vbc.exe.config
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\vbc.rsp
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\13-TopSpotsAPI.dll.config
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\13-TopSpotsAPI.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\13-TopSpotsAPI.pdb
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.WebHost.xml
