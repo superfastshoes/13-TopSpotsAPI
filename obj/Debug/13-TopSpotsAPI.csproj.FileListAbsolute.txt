@@ -108,3 +108,6 @@ Z:\dev\13-TopSpotsAPI\13-TopSpotsAPI\13-TopSpotsAPI\obj\Debug\13-TopSpotsAPI.pdb
 \\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Net.Http.Formatting.xml
 \\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.xml
 \\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Cors.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.Cors.dll
+\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\bin\System.Web.Http.Cors.xml
