@@ -17,6 +17,7 @@ namespace _13_TopSpotsAPI.Controllers
         {
             TopSpot[] TopSpots = JsonConvert.DeserializeObject<TopSpot[]>(File.ReadAllText(@"\\Mac\Home\Documents\dev windows\13-TopSpotsAPI\TopSpots.json"));
             return TopSpots;
+
         }
     }
 }
